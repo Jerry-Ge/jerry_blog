@@ -17,4 +17,7 @@ Jerry Ge's Blog
    :maxdepth: 2
    :caption: Contents:
    
-   about
+   1_about
+   2_sphnix_cheetsheet
+   3_probiotics
+   4_quantum
