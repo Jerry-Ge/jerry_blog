@@ -28,6 +28,7 @@ Header Hierarchy
 
 Link URLs
 -------------------
+
 ::
     
     # Inline link
@@ -35,3 +36,14 @@ Link URLs
     
     # Anonymous link
     `Google <https://goole.com>`__
+
+
+Code Block 
+-------------------
+
+::
+    
+    .. code-block:: python
+
+    def hello():
+        print("Hello, world!")
