@@ -11,3 +11,9 @@ SSH
 
 Others 
 ------------
+
+Redirect input to a file 
+
+.. code-block:: bash
+
+    > log.txt 2>&1
