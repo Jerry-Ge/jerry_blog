@@ -1,4 +1,4 @@
-Frequently Used Shell Commands
+Shell Commands
 ===============================
 
 
